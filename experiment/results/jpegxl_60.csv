@@ -1,0 +1,13 @@
+name,height,width,file_size(kb),method,compression_level
+artificial, 853, 1280 ,76,jpegxl,60
+big_building, 960, 1280 ,112,jpegxl,60
+big_tree, 957, 1280 ,120,jpegxl,60
+bridge, 1885, 1280 ,164,jpegxl,60
+cathedral, 1925, 1280 ,136,jpegxl,60
+deer, 836, 1280 ,36,jpegxl,60
+fireworks, 960, 1280 ,48,jpegxl,60
+flower_foveon, 853, 1280 ,28,jpegxl,60
+hdr, 853, 1280 ,44,jpegxl,60
+leaves_iso_200, 851, 1280 ,152,jpegxl,60
+nightshot_iso_100, 960, 1280 ,56,jpegxl,60
+spider_web, 857, 1280 ,36,jpegxl,60
