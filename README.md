@@ -2,12 +2,12 @@
 A repo to benchmark JPEG, JPEG-XL, and AVIF Image compression performance comparison in commercial use
 
 # Results
-Agressive compression scenario
-(results/low_BPP_results/all.png)
+Aggressive compression scenario
+[](results/low_BPP_results/all.png)
 Moderate compression scenario
-(results/medium_BPP_results/all.png)
-Agressive compression scenario
-(results/high_bpp_results/all.png)
+[](results/medium_BPP_results/all.png)
+Gentle compression scenario
+[](results/high_bpp_results/all.png)
 
 
 # Python (API and Tool)
