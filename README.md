@@ -10,7 +10,7 @@ Agressive compression scenario
 ![Alt text](experiment/results/high_bpp_results/all.png)
 
 
-# Python (API and Tool)
+# Python 
 **Setup** (with Anaconda3):
 ```
 conda create -n env numpy matplotlib
@@ -33,6 +33,10 @@ bash scripts/run_jpegxl.sh
 bash scripts/run_avif.sh
 ### save results to "results/"
 ### run the code in pic_code_analysis.ipynb for results analysis
+```
+**Plotted Results analysis:**
+```
+pic_code_analysis.ipynb
 ```
 
 # Citation
